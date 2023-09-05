@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlinePractice.API", "OnlinePractice.API\OnlinePractice.API.csproj", "{57D7E39E-C555-4322-8B00-CAC01EFB1760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCAvenues", "CCAvenues\CCAvenues.csproj", "{B3E84467-45C4-42C1-8329-0032B2DCFA9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57D7E39E-C555-4322-8B00-CAC01EFB1760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D7E39E-C555-4322-8B00-CAC01EFB1760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D7E39E-C555-4322-8B00-CAC01EFB1760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D7E39E-C555-4322-8B00-CAC01EFB1760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E84467-45C4-42C1-8329-0032B2DCFA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E84467-45C4-42C1-8329-0032B2DCFA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E84467-45C4-42C1-8329-0032B2DCFA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E84467-45C4-42C1-8329-0032B2DCFA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+		SolutionGuid = {8CC5E1F1-9653-4B13-9DAA-FF6AA5910FF1}
+	EndGlobalSection
+EndGlobal
